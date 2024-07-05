@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 import TeaDisplay from './dynamic_component';  
 import StaticDisplay from './static_component'; 
 
